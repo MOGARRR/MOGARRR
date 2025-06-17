@@ -1,8 +1,54 @@
-- 👋 Hi, I’m @MOGARRR
-- 👀 I’m interested in becoming a software developer!
-- 🌱 I’m currently learning html,CSS,Javascript, and reactJS soon!
-- 💞️ I’m looking to collaborate on anything that can help you me learn and help your projects!
-- 📫 How to reach me ...
+# 👋 Hey, I'm Anthony Alicea / MOGARR
+
+I'm a full-stack web developer and recent graduate of Lighthouse Labs' Web Development Bootcamp. I have a strong foundation in modern web technologies with a growing focus on e-commerce, accessibility, and performance.
+
+Before becoming a developer, I worked as a professional cook — a background that helps me how to work under pressure, work well in a team, and constantly improve. The same skills I use to develop full-stack projects by myself or with some amazing people!
+
+---
+
+### 🔧 Tech Stack & Tools
+
+- **Languages**: JavaScript, Ruby, SQL, HTML, CSS
+- **Frameworks**: React, Node.js, Express, Ruby on Rails, EJS
+- **Styling**: TailwindCSS, Bootstrap, Sass
+- **Databases**: PostgreSQL
+- **Tools**: Git, GitHub, Chrome DevTools, VS Code, Terminal
+- **Other**: REST APIs, responsive design, basic SEO & accessibility, Shopify familiarity
+
+---
+
+### 📦 Featured Projects
+
+#### 🛍️ [Jungle Rails](https://github.com/MOGARRR/jungle-rails)
+A full-featured e-commerce platform built with Ruby on Rails. Includes cart logic, product browsing, admin controls, and Stripe integration.
+
+#### 🗳️ [Decision Maker](https://github.com/Amga20d/decision-maker)
+A poll-ranking app for group decision-making, with drag-and-drop voting, real-time updates, and Mailgun-powered notifications.
+
+#### 🌐 [LightBnB](https://github.com/MOGARRR/LightBnB)
+An Airbnb-style listing app featuring advanced filtering, user reservations, and dynamic queries powered by PostgreSQL.
+
+#### 🔗 [TinyApp](https://github.com/MOGARRR/tinyapp)
+A URL shortening tool built with Node.js and Express, with authentication and visit tracking.
+
+---
+
+### 💼 Job Hunting
+
+I'm currently looking for a full-time role as a front-end or full-stack developer — ideally working on consumer-facing products, e-commerce platforms, or tools that prioritize great user experience.
+
+If you're hiring or working on something interesting, feel free to reach out and tell me about it!
+
+---
+
+### 📫 How to Reach Me
+
+- **Email**: alicea.9a@gmail.com  
+- **LinkedIn**: [linkedin.com/in/anthony-alicea](https://www.linkedin.com/in/anthony-alicea)  
+- **Location**: Calgary, AB
+---
+
+Thanks for visiting — and feel free to explore my repos and let me know what you think!
 
 <!---
 MOGARRR/MOGARRR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
