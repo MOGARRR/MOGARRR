@@ -25,6 +25,10 @@ A full-featured e-commerce platform built with Ruby on Rails. Includes cart logi
 #### 🗳️ [Decision Maker](https://github.com/Amga20d/decision-maker)
 A poll-ranking app for group decision-making, with drag-and-drop voting, real-time updates, and Mailgun-powered notifications.
 
+#### 📸 [PhotoLabs](https://github.com/MOGARRR/PhotoLabs)
+A responsive photo-sharing app that lets users explore, favorite, and interact with curated images.
+
+
 #### 🌐 [LightBnB](https://github.com/MOGARRR/LightBnB)
 An Airbnb-style listing app featuring advanced filtering, user reservations, and dynamic queries powered by PostgreSQL.
 
