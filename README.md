@@ -2,14 +2,14 @@
 
 I'm a full-stack web developer and recent graduate of Lighthouse Labs' Web Development Bootcamp. I have a strong foundation in modern web technologies with a growing focus on e-commerce, accessibility, and performance.
 
-Before becoming a developer, I worked as a professional cook — a background that helps me how to work under pressure, work well in a team, and constantly improve. The same skills I use to develop full-stack projects by myself or with some amazing people!
+Before becoming a developer, I worked as a professional cook — a background that helps me to work under pressure, work well in a team, and constantly improve. The same skills I use to develop full-stack projects by myself or with some amazing people!
 
 ---
 
 ### 🔧 Tech Stack & Tools
 
-- **Languages**: JavaScript, Ruby, SQL, HTML, CSS
-- **Frameworks**: React, Node.js, Express, Ruby on Rails, EJS
+- **Languages**: JavaScript, TypeScript, Ruby, SQL, HTML, CSS
+- **Frameworks**: React, Next.js, Node.js, Express, Ruby on Rails, EJS
 - **Styling**: TailwindCSS, Bootstrap, Sass
 - **Databases**: PostgreSQL
 - **Tools**: Git, GitHub, Chrome DevTools, VS Code, Terminal
