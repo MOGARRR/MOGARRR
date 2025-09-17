@@ -19,6 +19,10 @@ Before becoming a developer, I worked as a professional cook — a background th
 
 ### 📦 Featured Projects
 
+#### 💼 [Portfolio Website](https://github.com/MOGARRR/AnthonyA-Portfolio-website)  
+A personal portfolio built with React and Vite, showcasing projects, skills, and contact information. Designed with a responsive layout and interactive UI effects for an engaging user experience.  
+[Live Demo](https://anthonya-portfolio-website.onrender.com/)
+
 #### 🛍️ [Jungle Rails](https://github.com/MOGARRR/jungle-rails)
 A full-featured e-commerce platform built with Ruby on Rails. Includes cart logic, product browsing, admin controls, and Stripe integration.
 
@@ -51,6 +55,10 @@ If you're hiring or working on something interesting, feel free to reach out and
 - **LinkedIn**: [linkedin.com/in/anthony-alicea](https://www.linkedin.com/in/anthony-alicea)  
 - **Location**: Calgary, AB
 ---
+
+
+#### 🛍️ [Portfolio Website](https://github.com/MOGARRR/AnthonyA-Portfolio-website)
+### [Check ]
 
 Thanks for visiting — and feel free to explore my repos and let me know what you think!
 
