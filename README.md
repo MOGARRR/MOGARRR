@@ -56,10 +56,6 @@ If you're hiring or working on something interesting, feel free to reach out and
 - **Location**: Calgary, AB
 ---
 
-
-#### 🛍️ [Portfolio Website](https://github.com/MOGARRR/AnthonyA-Portfolio-website)
-### [Check ]
-
 Thanks for visiting — and feel free to explore my repos and let me know what you think!
 
 <!---
