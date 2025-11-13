@@ -11,7 +11,7 @@ Before becoming a developer, I worked as a professional cook — a background th
 - **Languages**: JavaScript, TypeScript, Ruby, SQL, HTML, CSS
 - **Frameworks**: React, Next.js, Node.js, Express, Ruby on Rails, EJS
 - **Styling**: TailwindCSS, Bootstrap, Sass
-- **Databases**: PostgreSQL
+- **Databases**: PostgreSQL, Supabase
 - **Tools**: Git, GitHub, Chrome DevTools, VS Code, Terminal
 - **Other**: REST APIs, responsive design, basic SEO & accessibility, Shopify familiarity
 
