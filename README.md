@@ -49,7 +49,7 @@ I work across the stack, delivering features end-to-end — from frontend interf
   ![REST%20APIs](https://img.shields.io/badge/-REST%20APIs-02569B?style=flat)
   ![Responsive%20Design](https://img.shields.io/badge/-Responsive%20Design-38B2AC?style=flat)
   ![Basic%20SEO](https://img.shields.io/badge/-Basic%20SEO-0F9D58?style=flat)
-  ![Accessibility](https://img.shields.io/badge/-Accessibility-A11Y-005A9C?style=flat)
+  ![Accessibility](https://img.shields.io/badge/-Accessibility-000000?style=flat&logo=windowsterminal&logoColor=fff)
 
 ---
 ## 🛠️ Current Projects
