@@ -56,7 +56,7 @@ I work across the stack, delivering features end-to-end — from frontend interf
 
 ### KiloBoy Artwork
 Building KiloBoy Artwork, a modern e-commerce website for a Toronto-based artist.
-The platform will feature art prints and streetwear, integrating Next.js, Supabase, Stripe, and Canada Post API for smooth payments and shipping management.
+The platform will feature art prints and streetwear, integrating Next.js, Supabase, Stripe, and Shippo API for smooth payments and shipping management.
 
 ## 📦 Featured Projects
 
