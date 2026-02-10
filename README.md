@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Anthony Alicea / MOGARR
 
-I’m a full-stack web developer currently working on freelance projects, building and shipping production-ready web applications with a focus on e-commerce, accessibility, and performance.
+I’m an Early Career Full-stack Software Engineer currently working on freelance projects, building and shipping production-ready web applications with a focus on e-commerce, accessibility, and performance.
 
-I work across the stack, delivering features end-to-end — from frontend interfaces to backend logic and third-party integrations.
+I work across the stack, delivering features end-to-end with frontend interfaces to backend logic and third-party integrations.
 
 ---
 
@@ -97,7 +97,7 @@ If you’re hiring or working on something exciting, feel free to reach out — 
 - **Location**: Calgary, AB
 ---
 
-Thanks for visiting — and feel free to explore my repos and let me know what you think!
+Thanks for visiting and feel free to explore my repos and let me know what you think!
 
 <!---
 MOGARRR/MOGARRR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
