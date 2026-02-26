@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Anthony Alicea / MOGARR
+# Hi! I'm Anthony Alicea / MOGARR
 
 I’m an Early Career Full-stack Software Engineer currently working on freelance projects, building and shipping production-ready web applications with a focus on e-commerce, accessibility, and performance.
 
@@ -52,32 +52,44 @@ I work across the stack, delivering features end-to-end with frontend interfaces
   ![Accessibility](https://img.shields.io/badge/-Accessibility-000000?style=flat&logo=windowsterminal&logoColor=fff)
 
 ---
-## 🛠️ Current Projects
-
-### KiloBoy Artwork
-Building KiloBoy Artwork, a modern e-commerce website for a Toronto-based artist.
-The platform will feature art prints and streetwear, integrating Next.js, Supabase, Stripe, and Shippo API for smooth payments and shipping management.
 
 ## 📦 Featured Projects
 
-#### 💼 [Portfolio Website](https://github.com/MOGARRR/AnthonyA-Portfolio-website)  
-A personal portfolio built with React and Vite, showcasing projects, skills, and contact information. Designed with a responsive layout and interactive UI effects for an engaging user experience.  
-[Live Demo](https://anthonya-portfolio-website.onrender.com/)
+#### [Kiloboy Artwork](https://github.com/MOGARRR/miles)
+A gallery and e-commerce site for a Toronto-based artist, built with **Next.js**, **Supabase**, and **Stripe**. The application manages the complete order lifecycle from product discovery to payment processing, shipping label generation, and customer notifications.
 
-#### 🛍️ [Jungle Rails](https://github.com/MOGARRR/jungle-rails)
+[Live Site](https://miles-delta.vercel.app)
+
+---
+
+#### [Portfolio Website](https://github.com/MOGARRR/AnthonyA-Portfolio-website)  
+A personal portfolio built with React and Vite, showcasing projects, skills, and contact information. Designed with a responsive layout and interactive UI effects for an engaging user experience.
+
+[Live Site](https://anthonyalicea.vercel.app)
+
+---
+
+#### [Jungle Rails](https://github.com/MOGARRR/jungle-rails)
 A full-featured e-commerce platform built with Ruby on Rails. Includes cart logic, product browsing, admin controls, and Stripe integration.
 
-#### 🗳️ [Decision Maker](https://github.com/Amga20d/decision-maker)
+---
+
+#### [Decision Maker](https://github.com/Amga20d/decision-maker)
 A poll-ranking app for group decision-making, with drag-and-drop voting, real-time updates, and Mailgun-powered notifications.
 
-#### 📸 [PhotoLabs](https://github.com/MOGARRR/PhotoLabs)
+---
+
+#### [PhotoLabs](https://github.com/MOGARRR/PhotoLabs)
 A responsive photo-sharing app that lets users explore, favorite, and interact with curated images.
 
+---
 
-#### 🌐 [LightBnB](https://github.com/MOGARRR/LightBnB)
+#### [LightBnB](https://github.com/MOGARRR/LightBnB)
 An Airbnb-style listing app featuring advanced filtering, user reservations, and dynamic queries powered by PostgreSQL.
 
-#### 🔗 [TinyApp](https://github.com/MOGARRR/tinyapp)
+---
+
+#### [TinyApp](https://github.com/MOGARRR/tinyapp)
 A URL shortening tool built with Node.js and Express, with authentication and visit tracking.
 
 ---
@@ -97,7 +109,7 @@ If you’re hiring or working on something exciting, feel free to reach out — 
 - **Location**: Calgary, AB
 ---
 
-Thanks for visiting and feel free to explore my repos and let me know what you think!
+Thanks for visiting, and feel free to explore my repos and let me know what you think!
 
 <!---
 MOGARRR/MOGARRR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
