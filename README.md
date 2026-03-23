@@ -11,6 +11,7 @@ I work across the stack, delivering features end-to-end with frontend interfaces
 - **Languages**:  
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
   ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=fff)
   ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=fff)
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=fff)
